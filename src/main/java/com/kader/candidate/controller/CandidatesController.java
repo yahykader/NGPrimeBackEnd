@@ -1,4 +1,4 @@
-package com.kader.candidate.repository.controller;
+package com.kader.candidate.controller;
 
 import com.kader.candidate.entities.Candidate;
 import com.kader.candidate.repository.CandidateRepository;
